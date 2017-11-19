@@ -1,0 +1,60 @@
+body{
+	background-color:E8E8BE;
+}
+
+.green{
+	background-color:green;
+}
+
+.red{
+	background-color: red;
+}
+
+.pink{
+	background-color: pink;
+}
+
+.margin-top{
+	margin-top: 50px;
+}
+
+.my-text-color{
+	color: red;
+}
+
+.my-font{
+	font-family: 'Indie Flower', cursive;
+}
+
+body{
+	font-family: 'Indie Flower', cursive;
+	font-weight:800;
+}
+
+.blue-html{
+	width:25%;
+	background-color: blue;
+}
+
+.red-css{
+	width : 45%;
+	background-color: red;
+}
+
+.margin-top2{
+	margin-top: 10px;
+} 
+
+
+header{
+	background:url('../img/background.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.margin-title{
+	margin-top: 40vh;
+} 
