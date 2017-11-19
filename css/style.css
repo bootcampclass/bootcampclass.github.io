@@ -58,3 +58,7 @@ header{
 .margin-title{
 	margin-top: 40vh;
 } 
+
+iframe{
+	max-width: 95vw;
+}
