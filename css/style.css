@@ -45,6 +45,9 @@ body{
 	margin-top: 10px;
 } 
 
+.padding{
+	padding: 10px;
+}
 
 header{
 	background:url('../img/background.jpg') no-repeat center fixed;
@@ -61,4 +64,8 @@ header{
 
 iframe{
 	max-width: 95vw;
+}
+
+.slid{
+	width:728px;
 }
